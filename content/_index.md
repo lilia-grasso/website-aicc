@@ -1,7 +1,7 @@
 ---
 title: "✨ Welcome"
 date: 2026-01-05
-# featured_image: "/images/hero-banner.jpg"  # Uncomment to show banner image
+featured_image: "/images/hero-banner.jpg"
 ---
 
 <div style="text-align: center;">
