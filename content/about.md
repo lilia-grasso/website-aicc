@@ -155,7 +155,7 @@ Team Leadership & Collaboration • AI Project Lifecycle Management • Problem 
 ### 🎙️ AI Chats&Chillers - live-podcast in Lisbon
 Host and organizer of monthly AI-focused events bringing together industry experts and enthusiasts in Lisbon. Creating a vibrant community for AI professionals, researchers, and enthusiasts to share knowledge and network. 
 
-**[➡️ Learn more](/podcast)**
+**[➡️ Learn more](podcast)**
 
 </div>
 

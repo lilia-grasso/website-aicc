@@ -26,7 +26,7 @@ Join me every month for **engaging conversations** with AI experts, researchers,
 
 From cutting-edge research to real-world applications — explore the latest in artificial intelligence with our vibrant community.
 
-**[🎯 Learn More](/podcast)** • **[📅 Upcoming Events](/podcast#upcoming-events)** • **[🎧 Past Episodes](/podcast#past-episodes)**
+**[🎯 Learn More](podcast)** • **[📅 Upcoming Events](podcast#upcoming-events)** • **[🎧 Past Episodes](podcast#past-episodes)**
 
 </div>
 
@@ -63,7 +63,7 @@ Creating spaces for AI enthusiasts to connect, learn, and innovate
 
 <div style="text-align: center; margin: 20px 0;">
 
-**[📄 View My Full Resume →](/about)**
+**[📄 View My Full Resume →](about)**
 
 </div>
 
@@ -88,6 +88,6 @@ Creating spaces for AI enthusiasts to connect, learn, and innovate
 
 ### 📬 **Get in Touch**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lilia-grasso-850a5a137) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lilia-grasso) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](/about#contact)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lilia-grasso-850a5a137) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lilia-grasso) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:liliagrassosayu@gmail.com)
 
 </div>

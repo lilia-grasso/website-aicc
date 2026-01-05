@@ -32,19 +32,18 @@ Every month, I host a live podcast event here in Lisbon featuring incredible gue
 
 Whether you're an AI professional, enthusiast, or just curious about the technology shaping our future, you're welcome at our events!
 
-**[Learn more about the podcast →](/podcast)**
+**[Learn more about the podcast →](podcast)**
 
-**[See upcoming events →](/podcast#upcoming-events)**
+**[See upcoming events →](podcast#upcoming-events)**
 
 ## Stay Connected
 
 Subscribe to updates and never miss an episode:
-- Follow on [LinkedIn](https://linkedin.com/in/yourprofile)
-- Connect on [Twitter](https://twitter.com/yourhandle)
-- [Subscribe to our newsletter](#)
+- Follow on [LinkedIn](https://www.linkedin.com/showcase/ai-chats-chillers)
+- Connect on [Instagram](https://www.instagram.com/ai_chatsnchillers/)
 
 Looking forward to seeing you at the next event! 🚀
 
 ---
 
-*Have questions or suggestions? [Get in touch](/about#contact)!*
+*Have questions or suggestions? [Get in touch](mailto:liliagrassosayu@gmail.com)!*
