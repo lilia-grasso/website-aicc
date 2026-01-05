@@ -1,0 +1,33 @@
+baseURL = 'https://lilia-grasso.github.io/website-aicc/'
+languageCode = 'en-us'
+title = 'Lilia Grasso - Where AI Meets Community'
+theme = 'ananke'
+
+[params]
+  description = "GenAI & LLM Engineer | Host of AI Chats&Chillers in Lisbon | Expertise in RAG systems, LLMOps, and Agentic Frameworks"
+  author = "Lilia Grasso"
+  favicon = ""
+  site_logo = ""
+  # featured_image = "/images/profile.jpg"  # Uncomment when you add your image
+  recent_posts_number = 5
+  show_reading_time = false
+  
+[params.social]
+  linkedin = "https://linkedin.com/in/lilia-grasso-850a5a137"
+  github = "https://github.com/lilia-grasso"
+  email = "liliagrassosayu@gmail.com"
+
+# Allow raw HTML in markdown
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+# GitHub Pages specific settings
+[deployment]
+  [[deployment.targets]]
+    name = "github"
+    URL = "gh-pages"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
