@@ -7,7 +7,6 @@ menu: main
 weight: 2
 ---
 
-![AI Chats&Chillers](/images/podcast-banner.jpg)
 
 <div style="text-align: center;">
 
