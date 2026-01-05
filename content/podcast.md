@@ -201,9 +201,6 @@ Follow [@ai_chatsnchillers](https://www.instagram.com/ai_chatsnchillers/) for be
 
 <div style="background: #f7f7f7; padding: 25px; border-radius: 10px;">
 
-**Q: Are events free to attend?**  
-A: Yes! Our events are free and open to the AI community in Lisbon.
-
 **Q: Do I need to register in advance?**  
 A: Yes, registration will be required to ensure we have adequate seating. Registration links will be shared when events are announced.
 
