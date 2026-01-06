@@ -78,7 +78,7 @@ Never miss an event! Enter your email to receive notifications about:
 - 🏟️ Venue and registration details
 - 🎥 Episode recordings and highlights
 
-**To subscribe, email us at:** [liliagrassosayu@gmail.com](mailto:liliagrassosayu@gmail.com?subject=Subscribe%20to%20AI%20Chats%26Chillers%20Updates) with subject "Subscribe to AI Chats&Chillers Updates"
+**To subscribe, email us at:** [info@ailisbonpodcast.com](mailto:info@ailisbonpodcast.com?subject=Subscribe%20to%20AI%20Chats%26Chillers%20Updates) with subject "Subscribe to AI Chats&Chillers Updates"
 
 </div>
 -->
@@ -114,7 +114,7 @@ We're always looking for interesting voices in the AI space! If you're working o
 
 <div style="text-align: center; margin-top: 20px;">
 
-**[📝 Apply to be a Guest](https://forms.gle/hDkSjm63ULooSiWh9)** • **[📧 Email Us](mailto:liliagrassosayu@gmail.com)**
+**[📝 Apply to be a Guest](https://forms.gle/hDkSjm63ULooSiWh9)** • **[📧 Email Us](mailto:info@ailisbonpodcast.com)**
 
 </div>
 
@@ -136,7 +136,7 @@ Help us grow the AI community in Lisbon! Sponsorship opportunities include:
 ✨ Networking with AI professionals  
 ✨ Social media promotion
 
-**Contact:** [liliagrassosayu@gmail.com](mailto:liliagrassosayu@gmail.com)
+**Contact:** [info@ailisbonpodcast.com](mailto:info@ailisbonpodcast.com)
 
 </div>
 
@@ -191,7 +191,7 @@ Follow [@ai_chatsnchillers](https://www.instagram.com/ai_chatsnchillers/) for be
 
 **📧 Email Updates** • **#AIChatsChillers**
 
-[![Email Subscribe](https://img.shields.io/badge/Subscribe-Email_Updates-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:liliagrassosayu@gmail.com?subject=Subscribe%20to%20AI%20Chats%26Chillers%20Updates)
+[![Email Subscribe](https://img.shields.io/badge/Subscribe-Email_Updates-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@ailisbonpodcast.com?subject=Subscribe%20to%20AI%20Chats%26Chillers%20Updates)
 
 </div>
 
@@ -221,7 +221,7 @@ A: Events will be primarily in English to accommodate our international communit
 
 Have questions or want to connect with other attendees?
 
-**Contact:** [liliagrassosayu@gmail.com](mailto:liliagrassosayu@gmail.com)
+**Contact:** [info@ailisbonpodcast.com](mailto:info@ailisbonpodcast.com)
 
 ---
 

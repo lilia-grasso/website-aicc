@@ -46,4 +46,4 @@ Looking forward to seeing you at the next event! 🚀
 
 ---
 
-*Have questions or suggestions? [Get in touch](mailto:liliagrassosayu@gmail.com)!*
+*Have questions or suggestions? [Get in touch](mailto:info@ailisbonpodcast.com)!*
